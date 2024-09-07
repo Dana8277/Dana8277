@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Pyhton and SQL
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she / her
+- ⚡ Fun fact: my alias comes from The X-files, special FBI agent Dana Scully
 
 <!---
 Dana8277/Dana8277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
