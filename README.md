@@ -2,7 +2,7 @@
 - 👀 I’m interested in Big Data, IA, Machine Learning and Data Science
 - 🌱 I’m currently learning Pyhton and SQL
 - 💞️ I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/apierotti/
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: my alias comes from The X-files, special FBI agent Dana Scully
 
